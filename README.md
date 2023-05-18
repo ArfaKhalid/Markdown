@@ -135,7 +135,7 @@ print(z)
 [2- Block of words](#2--block-of-words)\
 [3- line breaks](#3--line-breaks)\
 [4- combine two things](#4--combine-two-things)\
-[5- Text Face](#5--face-of-text)
+[5- Text Face](#5--face-of-text)\
 [6- Bullet](#6--bullet-points-lists)\
 [7- Line and page breaks](#7--line-breaks-or-page-breaks)\
 [8- Links](#8--links-and-hyperlinks)\
